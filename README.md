@@ -1,5 +1,7 @@
 <h1>Hi, I'm Chris! <br/><a href=(https://www.linkedin.com/in/christopher-mwangi-894265b0/) Monitoring, Evaluation and Learning, Data Analyst, Data Scientist</a></h1>
 
+<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
