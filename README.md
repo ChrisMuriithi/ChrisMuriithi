@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/><a href="linkedin.com/in/christopher-mwangi-894265b0">Monitoring, Evaluation and Learning, Data Analyst, Data Scientist</a></h1>
+<h1>Hi, I'm Chris! <br/><a href="(https://www.linkedin.com/in/christopher-mwangi-894265b0/)">Monitoring, Evaluation and Learning, Data Analyst, Data Scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
