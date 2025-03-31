@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Guessing Game Project]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/ChrisMuriithi/Guessing-Game))
+  - [Guessing Game Project](https://github.com/ChrisMuriithi/Guessing-Game)
 
 <h2>📺 Popular YouTube Videos</h2>
 
