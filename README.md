@@ -1,5 +1,10 @@
 <h1>Hi, I'm Chris! <br/><a href="https://www.linkedin.com/in/christopher-mwangi-894265b0">Monitoring, Evaluation and Learning; Data Analyst/Scientist; Cybersecurity Professional</a></h1>
 
+<h2>👨‍💻 Monitoring, Evaluation and Learning Projects:</h2>
+
+- <b>Python</b>
+  - [Guessing Game Project](https://github.com/ChrisMuriithi/Guessing-Game)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
