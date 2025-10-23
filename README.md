@@ -32,6 +32,7 @@ I specialize in **Monitoring, Evaluation & Learning (MEL)**, **Data Analytics**,
 
 ### Education
 MSc, Information Systems 
+
 BSc, Mathematics & Computer Science  
 
 ---
