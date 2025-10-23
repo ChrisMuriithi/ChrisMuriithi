@@ -19,14 +19,20 @@ I specialize in **Monitoring, Evaluation & Learning (MEL)**, **Data Analytics**,
 |-----------|--------------|------|-----------|
 | **MEL Portfolio** | Digital health systems, EMR integration, and adaptive programming dashboards. | [Repo](https://github.com/ChrisMuriithi/MEL-Portfolio) | [View Site](https://chrismuriithi.github.io/MEL-Portfolio/) |
 | **Data Analyst Portfolio** | Power BI, SQL, and Python analytics projects. | [Repo](https://github.com/ChrisMuriithi/Data-Analyst-Portfolio) | [View Site](https://chrismuriithi.github.io/Data-Analyst-Portfolio/) |
-| **Cybersecurity Portfolio & Data Protection** | GRC, vulnerability management, and data protection playbooks. | [Repo](https://github.com/ChrisMuriithi/Cybersecurity-Portfolio) | [View Site](https://chrismuriithi.github.io/Cybersecurity-Portfolio/) |
+| **Cybersecurity & Data Protection Portfolio** | GRC, vulnerability management, and data protection playbooks. | [Repo](https://github.com/ChrisMuriithi/Cybersecurity-Portfolio) | [View Site](https://chrismuriithi.github.io/Cybersecurity-Portfolio/) |
 
 ---
 
 ### 🧰 Tech Stack
 **Languages:** Python, SQL, DAX, HTML, CSS  
 **Tools:** Power BI, Excel, Git, GitHub Pages, NVivo, STATA  
-**Frameworks:** MEL, Data Protection, GRC, Interoperability Standards  
+**Frameworks:** MEL, Data Protection, GRC, Interoperability Standards
+
+---
+
+### Education
+MSc, Information Systems 
+BSc, Mathematics & Computer Science  
 
 ---
 
